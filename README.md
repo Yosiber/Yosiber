@@ -1,16 +1,36 @@
-## Hi there, I'm Yohan Bustos 👋
+## 👋 Hi there, I'm Yohan Bustos
 
-<!--
-**Yosiber/Yosiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Software Engineering student, currently learning and exploring the world of programming.  
+🛠️ I enjoy building small projects to improve my skills and understand how things work behind the scenes.  
+🚀 I'm passionate about technology and always eager to learn something new.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm learning:
+- Java & Spring Boot 🌱
+- HTML, CSS & JavaScript 🌐
+- SQL & PostgreSQL 🗄️
+- Git & GitHub 🧰
+- Python 🐍
+
+---
+
+### 📌 Goals for 2025:
+- Contribute to open-source projects 👨‍💻  
+- Build a full-stack application 🧱  
+- Improve my programming skills and problem-solving 📘  
+
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yosiber&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosiber&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
+
+### 📫 How to reach me:
+- 📧 yohansebastianbr@gmail.com
+
+---
+
+> “Learning to write programs stretches your mind, and helps you think better.” – Bill Gates
