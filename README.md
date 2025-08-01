@@ -17,7 +17,7 @@
 
 ### 📌 Goals for 2025:
 - Contribute to open-source projects 👨‍💻  
-- Build a full-stack application 🧱  
+- Build a backend application 🧱  
 - Improve my programming skills and problem-solving 📘  
 
 ---
